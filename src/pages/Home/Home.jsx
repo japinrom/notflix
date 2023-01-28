@@ -9,7 +9,7 @@ export default function Home () {
         <article className='text-container'>
           <h1>Todas las películas y series que desees, y mucho más.</h1>
           <h2>Disfruta donde quieras. Cancela cuando quieras.</h2>
-          <Link to='/videos' className='generic-button'>Entrar</Link>
+          <Link to='/movies' className='generic-button'>Entrar</Link>
         </article>
       </main>
     </>
